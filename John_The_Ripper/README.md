@@ -16,7 +16,6 @@ où
 correspond au hash du mot de passe de connexion.
 
 Ainsi john pourra nous être utile à casser le mot de passe par une attaque par dictionnaire en tapant la commande suivante :
-
 ```john -w=liste.txt mdp.hashes```
 
 Ainsi cette ligne demande à john de calculer tous les hash des mots contenus dans liste.txt et de le comparer au hash de la session. Si les deux hashes sont les mêmes, alors le mot de passe est trouvé et John s’arrête.

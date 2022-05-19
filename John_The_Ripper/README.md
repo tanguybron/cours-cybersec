@@ -42,3 +42,23 @@ quand docker est installé sur votre machine, vous n'aurez plus qu'à taper la c
 
 Si vous voulez accéder directement à la machine sur dockerhub, voici le lien : 
 https://hub.docker.com/r/tanguybron/usejohntheripper
+
+#### Étape 2 : lancer la machine
+Voilà ! Vous venez de télécharger la machine, il faut maintenant la lancer. Pour cela, tapez la commande : 
+
+```docker run -it tanguybron/usejohntheripper```
+
+Ça y est ! Vous êtes dans une machine Ubuntu, amusez-vous !
+
+### Objectifs
+
+#### Situation
+Martin veut mettre sa machine à jour avec ```apt-get update```, mais pour cela il doit être root sur sa machine. Malheureusement il ne connait pas son mot de passe administrateur car c'est son ami Jeremy qui a configuré sa machine ! Ce dernier ne se souvient plus du tout du mot de passe non plus :( Arriverez-vous à trouver le mot de passe administrateur de cette machine pour la mettre à jour ?
+
+#### Que faire ?
+* Récupérer les mots de passe hachés de session
+* Cracker le hash avec John d'une session susceptible d'avoir les accès root
+* Connectez vous avec la session dont vous avez trouvé le mot de passe
+* Tapez la commande ```apt-get update```
+
+Si la machine est à jour vous avez accompli votre mission. Félicitations

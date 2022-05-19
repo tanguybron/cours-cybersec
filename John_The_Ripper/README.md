@@ -34,5 +34,11 @@ Pour voir si vous avez bien compris le cours, je vous propose de vous entrainer 
 
 ### Que devez-vous faire ?
 
-#### Étape 1 : 
-récupérer le docker proposé
+#### Étape 1 : récupérer le docker proposé
+pour cela, il vous faut docker installé (il existe tout un tas de tutoriels qui vous expliquerons comment le télécharger)
+quand docker est installé sur votre machine, vous n'aurez plus qu'à taper la commande : 
+
+```docker pull tanguybron/usejohntheripper```
+
+Si vous voulez accéder directement à la machine sur dockerhub, voici le lien : 
+https://hub.docker.com/r/tanguybron/usejohntheripper

@@ -13,8 +13,11 @@ John nous permet d’effectuer une attaque brute force simple, ou par dictionnai
 ## Comment lancer l'attaque brute force avec john ?
 
 Imaginons un fichier mdp.hashes contenant le hash d’une session. Le fichier pourrait contenir une ligne comme suit : 
+
 ```jeremy:$1$XT.ZwPx4$LpAfbyGhDRZ3QSxdCzUqD/:19123:0:99999:7:::```
+
 où
+
 ```$1$XT.ZwPx4$LpAfbyGhDRZ3QSxdCzUqD/```
 
 correspond au hash du mot de passe de connexion.

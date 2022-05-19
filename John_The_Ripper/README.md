@@ -10,7 +10,7 @@ Cependant il n’est pas impossible de trouver un mot de passe à partir du hash
 
 John nous permet d’effectuer une attaque brute force simple, ou par dictionnaire lorsque nous avons un ou plusieurs hashes à disposition.
 
-## Comment lancer l'attaque brute force avec john ?
+## Comment lancer l'attaque brute force avec John ?
 
 Imaginons un fichier mdp.hashes contenant le hash d’une session. Le fichier pourrait contenir une ligne comme suit : 
 
@@ -27,3 +27,12 @@ Ainsi john pourra nous être utile à casser le mot de passe par une attaque par
 ```john -w=liste.txt mdp.hashes```
 
 Ainsi cette ligne demande à john de calculer tous les hash des mots contenus dans liste.txt et de le comparer au hash de la session. Si les deux hashes sont les mêmes, alors le mot de passe est trouvé et John s’arrête.
+
+## Entrainement et mise en situation réelle
+
+Pour voir si vous avez bien compris le cours, je vous propose de vous entrainer sur un docker que j'ai créé spécialement pour cela.
+
+### Que devez-vous faire ?
+
+#### Étape 1 : 
+récupérer le docker proposé

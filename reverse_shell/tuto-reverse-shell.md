@@ -37,7 +37,9 @@ Vous pouvez envoyer le fichier de toutes les manières possibles : par usb, par 
 ## ÉTAPE 4 : Ouvrir le fichier
 Le fichier est bien téléchargé sur la machine virtuelle.
 Avant de l’ouvrir, vérifiez bien que le listener est lancé. Vous devez voir cela : 
+
 ![image listener](./images/listener.png)
+
 avec votre adresse et votre port que vous avez renseigné.
 
 Si tout est prêt, ouvrez le pdf avec adobe reader 8 ! 

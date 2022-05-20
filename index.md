@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# Cours en français sur la cybersécurité
 
-You can use the [editor on GitHub](https://github.com/tanguybron/cours-cybersec/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Vous trouverez différents dossiers que vous pourrez parcourir en choisissant les différents outils ou failles que vous voulez étudier.
+Les cours qui vous sont proposés ici sont purement éducatifs et ont pour but la sensibilisation à la menace cyber. En aucun cas ces cours ne doivent vous servir à attaquer une quelconque personne pour aucune raison. Vous aurez à disposition des machines créées pour vous entrainer et mettre en pratique ce que vous avez appris dans les cours.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tanguybron/cours-cybersec/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Les différents sujets : 
+* [John the Ripper](https://github.com/tanguybron/cours-cybersec/tree/master/John_The_Ripper) : Cracking de mot de passe (Cours + Challenge)
+* [Reverse Shell](https://github.com/tanguybron/cours-cybersec/tree/master/Reverse_Shell) : prendre le contrôle d'une machine windows grâce à un fichier pdf (Cours + Tutoriel)

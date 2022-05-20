@@ -52,4 +52,4 @@ Enregistrez template.pdf s’il vous le demande.
 
 Cliquez sur open.
 
-Retournez voir votre listener… Une fenêtre meterpreter s’est lancée, une connexion a été faite entre votre machine et celle de la victime. Tapez help pour voir tout ce qu’il vous est possible de faire. Amusez-vous bien ! Félicitations !
+Retournez voir votre listener… Une fenêtre meterpreter s’est lancée, une connexion a été faite entre votre machine et celle de la victime. Tapez ```help``` pour voir tout ce qu’il vous est possible de faire. Amusez-vous bien ! Félicitations !

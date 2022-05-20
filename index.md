@@ -5,4 +5,4 @@ Les cours qui vous sont proposés ici sont purement éducatifs et ont pour but l
 
 ## Les différents sujets : 
 * [John the Ripper](john_the_ripper/cours-john.md) : Cracking de mot de passe (Cours + Challenge)
-* [Reverse Shell](https://github.com/tanguybron/cours-cybersec/tree/master/Reverse_Shell) : prendre le contrôle d'une machine windows grâce à un fichier pdf (Cours + Tutoriel)
+* [Reverse Shell](reverse_shell/accueil-reverse-shell.md) : prendre le contrôle d'une machine windows grâce à un fichier pdf (Cours + Tutoriel)

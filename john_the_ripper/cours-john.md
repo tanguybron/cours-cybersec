@@ -1,4 +1,4 @@
-![image john](images/john/john-logo.png)
+![image john](images/john-logo.png)
 
 # Cours John the Ripper
 

@@ -2,8 +2,8 @@
 
 ### Qu'y a-t-il dans ce cours ?
 Dans cette section, vous avez à disposition : 
-* [un cours](https://github.com/tanguybron/cours-cybersec/tree/master/Reverse_Shell/Cours)
-* [un tutoriel](https://github.com/tanguybron/cours-cybersec/tree/master/Reverse_Shell/Turoriel)
+* [un cours](cours-reverse-shell.md)
+* [un tutoriel](tuto-reverse-shell.md)
 
 
 ### Objectif du Cours

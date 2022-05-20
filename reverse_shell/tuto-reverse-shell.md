@@ -8,7 +8,7 @@ Tapez la commande ```msfconsole``` pour démarrer métasploit.
 Ensuite il faut chercher le payload. 
 Tapez search windows fileformat pdf. Vous aurez un résultat comme ci dessous :
 
-![image search](images/reverse_shell/search_msfconsole.png)
+![image search](images/search_msfconsole.png)
 
 Plusieurs modules répondent à notre recherche, mais peu d’entre eux sont classés comme excellents. Nous allons donc prendre le numéro 6.
 Pour l’utiliser tapez ```use exploit/windows/fileformat/adobe_pdf_embedded_exe```

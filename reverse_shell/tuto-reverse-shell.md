@@ -6,7 +6,7 @@ Avant de commencer ce tutoriel, je vous conseillerai d’aller voir le cours sur
 Métasploit propose un grand nombre de payloads divers et variés. En tapant les bonnes recherches, il sera possible de trouver facilement celui qui nous intéresse.
 Tapez la commande ```msfconsole``` pour démarrer métasploit.
 Ensuite il faut chercher le payload. 
-Tapez search windows fileformat pdf. Vous aurez un résultat comme ci dessous :
+Tapez ```search windows fileformat pdf```. Vous aurez un résultat comme ci dessous :
 
 ![image search](images/search_msfconsole.png)
 

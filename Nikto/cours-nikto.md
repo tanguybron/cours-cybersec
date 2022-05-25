@@ -18,6 +18,7 @@ Si vous avez une autre distribution Linux (debian) vous pourrez l’installer pa
 
 ## Comment utiliser Nikto ?
 Pour voir toutes les possibilités et commandes de nikto, la première commande à taper est :
+
 ```nikto -Help```.
 
 Vous verrez tout un tas d’options expliquées par la suite. La plus simple et la plus utilisée sera la commande : 
@@ -28,3 +29,7 @@ D’autres options complémentaires pourront s’ajouter à cette commande telle
 Si l’on veut scanner un domaine en https, il faudra ajouter le tag ```-ssl``` pour scanner le port 443.
 
 Il est aussi possible de scanner plusieurs adresses IP en même temps. Par exemple en les mettant dans un fichier texte et en tapant la commande : ```nikto -h adresses.txt```
+
+## Pour s'entrainer :
+Un challenge est à disposition pour s'entrainer et voir sa compréhension du cours sur cet outil.
+[Voir le challenge](./challenge-nikto.md)

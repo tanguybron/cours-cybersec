@@ -24,7 +24,7 @@ Pour voir toutes les possibilités et commandes de nikto, la première commande 
 Vous verrez tout un tas d’options expliquées par la suite. La plus simple et la plus utilisée sera la commande : 
 ```nikto -h <target>``` en remplaçant la target par une adresse ip ou un nom de domaine.
 
-D’autres options complémentaires pourront s’ajouter à cette commande telles que : ```-id``` qui servira à renseigner une combinaison ```identifiant:motdepasse``` pour se connecter sur la cible, ou encore ```-mutate``` pour découvrir de nouveaux fichiers ou dossiers cachés.
+D’autres options complémentaires pourront s’ajouter à cette commande telles que : ```-id``` qui servira à renseigner une combinaison ```identifiant:motdepasse``` pour se connecter sur la cible, ou encore   ```-mutate``` pour découvrir de nouveaux fichiers ou dossiers cachés.
 
 Si l’on veut scanner un domaine en https, il faudra ajouter le tag ```-ssl``` pour scanner le port 443.
 
@@ -32,4 +32,5 @@ Il est aussi possible de scanner plusieurs adresses IP en même temps. Par exemp
 
 ## Pour s'entrainer :
 Un challenge est à disposition pour s'entrainer et voir sa compréhension du cours sur cet outil.
+
 [Voir le challenge](./challenge-nikto.md)

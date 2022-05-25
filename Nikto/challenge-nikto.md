@@ -1,4 +1,4 @@
-# challenge Nikto
+# Challenge Nikto
 
 ## Objectif du challenge : 
 trouver le numéro OSVDB de la potentielle vulnérabilité de la machine docker déployée.

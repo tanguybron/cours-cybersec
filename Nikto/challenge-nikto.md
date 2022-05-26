@@ -8,4 +8,4 @@ trouver le numéro OSVDB de la potentielle vulnérabilité de la machine docker 
     * ```docker pull tanguybron/nikto```
     * ```docker run -it -p 80 tanguybron/nikto```
 
-* Analyser la machine avec nikto et libre le numéro OSVDB de la vulnérabilité trouvée.
+* Analyser la machine avec nikto et lire le numéro OSVDB de la vulnérabilité trouvée.

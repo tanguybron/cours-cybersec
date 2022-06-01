@@ -36,21 +36,20 @@ Pour voir si vous avez bien compris le cours, je vous propose de vous entrainer 
 
 ### Que devez-vous faire ?
 
-#### Étape 1 : récupérer le docker proposé
-pour cela, il vous faut docker installé (il existe tout un tas de tutoriels qui vous expliquerons comment le télécharger)
-quand docker est installé sur votre machine, vous n'aurez plus qu'à taper la commande : 
+Il vous faut docker installé (il existe tout un tas de tutoriels qui vous expliquerons comment le télécharger)
+quand docker et docker-compose sont installés sur votre machine, nous pouvons passer à la suite : 
 
-```docker pull tanguybron/usejohntheripper```
+Il vous faut télécharger le fichier [docker-compose.yml](./docker-compose.yml)
 
-Si vous voulez accéder directement à la machine sur dockerhub, voici le lien : 
-https://hub.docker.com/r/tanguybron/usejohntheripper
+Ensuite, il vous restera quelques commandes à connaître : 
 
-#### Étape 2 : lancer la machine
-Voilà ! Vous venez de télécharger la machine, il faut maintenant la lancer. Pour cela, tapez la commande : 
+```shell
+    docker-compose up -d
+    docker exec -it martin /bin/bash
+    docker exec -it john /bin/bash
+```
 
-```docker run -it tanguybron/usejohntheripper```
-
-Ça y est ! Vous êtes dans une machine Ubuntu, amusez-vous !
+La première commande vous permet de créer les deux machines dont vous aurez besoin. La machine de martin correspond à la machine victime et la machine john à celle de l'attaque qui possède l'outil john installé dessus.
 
 ### Objectifs
 

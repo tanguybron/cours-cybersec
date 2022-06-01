@@ -9,4 +9,4 @@ trouver le numéro OSVDB de la potentielle vulnérabilité de la machine docker 
     * ```docker-compose up -d``` (après avoir exécuté cette commande, le serveur web est lancé et est disponible à l'adresse : 10.5.0.2)
     * ```docker exec -it nikto_machine /bin/bash``` (cela lancera la machine attaquante avec nikto installé)
 
-* Analyser la machine avec nikto et libre le numéro OSVDB de la vulnérabilité trouvée.
+* Analyser la machine avec nikto et lire le numéro OSVDB de la vulnérabilité trouvée.

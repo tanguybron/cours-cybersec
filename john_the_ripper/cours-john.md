@@ -22,7 +22,7 @@ jeremy:$1$XT.ZwPx4$LpAfbyGhDRZ3QSxdCzUqD/:19123:0:99999:7:::
 
 où
 
-```shell
+```
 $1$XT.ZwPx4$LpAfbyGhDRZ3QSxdCzUqD/
 ```
 

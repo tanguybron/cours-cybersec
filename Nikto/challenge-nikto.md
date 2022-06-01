@@ -11,8 +11,8 @@ Récupérer les machines :
 * Déployer et utiliser les machines : 
 
 ```console 
-$ docker-compose up -d
-$ docker exec -it nikto_machine /bin/bash
+docker-compose up -d
+docker exec -it nikto_machine /bin/bash
 ```
 
 * Analyser la machine avec nikto et lire le numéro OSVDB de la vulnérabilité trouvée.

@@ -16,17 +16,23 @@ John nous permet d’effectuer une attaque brute force simple, ou par dictionnai
 
 Imaginons un fichier mdp.hashes contenant le hash d’une session. Le fichier pourrait contenir une ligne comme suit : 
 
-```jeremy:$1$XT.ZwPx4$LpAfbyGhDRZ3QSxdCzUqD/:19123:0:99999:7:::```
+```
+jeremy:$1$XT.ZwPx4$LpAfbyGhDRZ3QSxdCzUqD/:19123:0:99999:7:::
+```
 
 où
 
-```$1$XT.ZwPx4$LpAfbyGhDRZ3QSxdCzUqD/```
+```shell
+$1$XT.ZwPx4$LpAfbyGhDRZ3QSxdCzUqD/
+```
 
 correspond au hash du mot de passe de connexion.
 
 Ainsi john pourra nous être utile à casser le mot de passe par une attaque par dictionnaire en tapant la commande suivante :
 
-```john -w=liste.txt mdp.hashes```
+```shell
+john -w=liste.txt mdp.hashes
+```
 
 Ainsi cette ligne demande à john de calculer tous les hash des mots contenus dans liste.txt et de le comparer au hash de la session. Si les deux hashes sont les mêmes, alors le mot de passe est trouvé et John s’arrête.
 

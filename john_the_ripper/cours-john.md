@@ -70,3 +70,6 @@ Martin veut mettre sa machine à jour avec ```apt-get update```, mais pour cela 
 * Tapez la commande ```apt-get update```
 
 Si la machine est à jour vous avez accompli votre mission. Félicitations
+
+### Vidéo de résolution
+[vidéo youtube](https://youtu.be/5X0gQ5gLaO0)

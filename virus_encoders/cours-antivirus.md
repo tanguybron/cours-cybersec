@@ -39,7 +39,7 @@ cambouis ! La première technique serait de modifier le corps du programme avant
 qu’il ne soit compilé afin de le rendre unique. Cette technique fait toujours ses preuves et moitié moins
 d’antivirus détectent la menace.
 
-    Une autre technique serait de tenter de stopper l’antivirus lors de l’exécution du virus, ainsi il ne sera pas
+Une autre technique serait de tenter de stopper l’antivirus lors de l’exécution du virus, ainsi il ne sera pas
 possible de détecter la menace.
 
 

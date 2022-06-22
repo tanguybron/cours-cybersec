@@ -7,7 +7,7 @@ Les cours qui vous sont proposés ici sont purement éducatifs et ont pour but l
 * [John the Ripper](john_the_ripper/cours-john.md) : Cracking de mot de passe (Cours + Challenge)
 * [Reverse Shell](reverse_shell/accueil-reverse-shell.md) : prendre le contrôle d'une machine windows grâce à un fichier pdf (Cours + Tutoriel)
 * [Nikto](Nikto/cours-nikto.md) : Test de vulnérabilités sur un serveur web (Cours + Challenge)
-* [Msfvenom : est-il si facile de tromper l'antivirus ?](Nikto/cours-nikto.md) : Les techniques permettant d'outrepasser les sécurités d'un antivirus (Cours)
+* [Msfvenom : est-il si facile de tromper l'antivirus ?](virus_encoders/cours-antivirus.md) : Les techniques permettant d'outrepasser les sécurités d'un antivirus (Cours)
 
 ## Les conteneurs :
 Pour les différents challenges présents sur ce site, des conteneurs sont mis à disposition pour s'entrainer dessus.

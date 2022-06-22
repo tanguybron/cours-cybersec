@@ -72,4 +72,4 @@ antivirus n’est pas donné à tout le monde.
 
 Sources :
 
-Vidéo YouTube qui présente très bien tous ces problèmes : [voir la vidéo Youtube](https://www.youtube.com/watch?v=2H_1ZkZ83gI&t=131s)
+Vidéo YouTube qui présente très bien tous ces problèmes : [voir la vidéo Youtube](https://www.youtube.com/watch?v=2H_1ZkZ83gI&t=131s){:target="_blank"}

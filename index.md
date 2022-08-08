@@ -8,6 +8,9 @@ Les cours qui vous sont proposés ici sont purement éducatifs et ont pour but l
 * [Reverse Shell](reverse_shell/accueil-reverse-shell.md) : prendre le contrôle d'une machine windows grâce à un fichier pdf (Cours + Tutoriel)
 * [Nikto](Nikto/cours-nikto.md) : Test de vulnérabilités sur un serveur web (Cours + Challenge)
 * [Msfvenom : est-il si facile de tromper l'antivirus ?](virus_encoders/cours-antivirus.md) : Les techniques permettant d'outrepasser les sécurités d'un antivirus (Cours)
+* [Exiftool](exiftool/cours-exif.md) : Comprendre les métadonnées et trouver des informations cachées dans une image (Cours + Challenge)
+
+
 
 ## Les conteneurs :
 Pour les différents challenges présents sur ce site, des conteneurs sont mis à disposition pour s'entrainer dessus.

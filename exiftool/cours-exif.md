@@ -18,6 +18,8 @@ Exiftool vous permet très facilement de lire ces métadonnées de vos photos :
 
 ## Pourquoi les Métadonnées sont importantes dans le monde de la cybersécurité ?
 
+Lorsque vous envoyez une image à un proche, vous l'envoyez avec toutes ses Métadonnées. Si l'image d'origine est interceptée ou dérobée par une personne malveillante, cette dernière pourra lire les métadonnées de l'image. Ayant précisé juste avant que l'image pouvait contenir des coordonnées GPS exactes, vous pouvez imaginer ce qu'une personne malveillante peut faire. Le modèle d'appareil qui a pris la photo peut aussi être identifié, ce qui peut être utile dans la phase de reconnaissance pour une future exploitation de failles, en connaissant le modèle de l'appareil à infecter la tâche s'annonce tout de suite plus simple pour un attaquant.
+Ainsi, même si l'image n'est pas compromettante en elle même, elle peut le devenir par ses métadonnées.
 
 ## Détails compatibilité
 

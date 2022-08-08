@@ -13,3 +13,7 @@ Lorsque vous prenez une photo avec votre smartphone, vous pouvez la retrouver et
 Exiftool vous permet très facilement de lire ces métadonnées de vos photos : 
 
 ``` exiftool <image.jpg> ```
+
+## Détails compatibilité
+
+Vous pouvez retrouver tous les types de fichiers compatibles avec exiftool sur le site officiel : https://exiftool.org/

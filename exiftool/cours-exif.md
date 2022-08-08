@@ -1,3 +1,15 @@
 # Cours Exiftool
 
-## 
+## Qu'est ce qu'Exiftool ?
+
+Exiftool est un outil en ligne de commande pour lire, écrire et éditer les métadonnées de différents types de fichiers différents.
+
+## Qu'est ce les Métadonnées ?
+
+Lorsque vous prenez une photo avec votre smartphone, vous pouvez la retrouver et la visioner dans votre gallerie d'images dès que vous voulez. Votre smartphone ne prend cependant pas uniquement une capture de l'instant. En effet, ce dernier capture la date et l'heure précise à laquelle vous appuyez sur le bouton pour prendre votre photo, ajoute à cela la taille de résolution de l'image, la position gps, et plein d'autres informations supplémentaires qui sont ajoutées à l'image. Toutes ces informations sont appelées les métadonnées.
+
+## Comment visionner les Métadonnées d'une image ?
+
+Exiftool vous permet très facilement de lire ces métadonnées de vos photos : 
+
+``` exiftool <image.jpg> ```

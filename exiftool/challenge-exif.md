@@ -2,7 +2,7 @@
 
 ## Trouver le pseudo de l'artiste de l'image suivante : 
 
-![image exif](images/john-logo.png)
+![image exif](images/exifimg.jpg)
 
 ## Source image : 
 L'image a été trouvée sur le site : 

@@ -24,3 +24,8 @@ Ainsi, même si l'image n'est pas compromettante en elle même, elle peut le dev
 ## Détails compatibilité
 
 Vous pouvez retrouver tous les types de fichiers compatibles avec exiftool sur le site officiel : [exiftool.org](https://exiftool.org/)
+
+## Challenge
+
+Trouvez le challenge associé à ce cours sur la page suivante : 
+[Voir le challenge](./challenge-exif.md)
